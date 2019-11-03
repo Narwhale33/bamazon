@@ -1,0 +1,28 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon-like storefront",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "dotenv": "^6.2.0",
+    "cli-table": "^0.3.1",
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0",
+    "columnify": "^1.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Narwhale33/Bamazon.git"
+  },
+  "author": "Nar Whale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Narwhale33/Bamazon/issues"
+  },
+  "homepage": "https://github.com/Narwhale33/Bamazon#readme"
+}
